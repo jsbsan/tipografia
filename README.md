@@ -1,5 +1,7 @@
 # tipografia
 
-Tipograia Ok Fail: 
+Tipograia Ok Fail:
 caracteres definidos: Ok fail Ok fail
 letras: 01234
+
+![tipografia](dibujo.png)
